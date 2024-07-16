@@ -40,6 +40,7 @@ export default function Carousel({
           alt="blurred background"
           fill
           priority={true}
+          unoptimized={true}
         />
       </button>
       <SharedModal
